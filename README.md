@@ -1,4 +1,4 @@
-# Sales Analysis Project
+# Ecommerce_sales_analysis
 
 ##  Project Overview
 This project performs an in-depth analysis of sales data using Python and visualization tools to uncover trends, patterns, and insights that drive business decisions.
